@@ -8,8 +8,6 @@ class Student{
         this.name = "Ahmad";
         this.age=20;
         
-        // This is how you call a constructor from another constructor
-        this ("Shayan",19,100.0f);
     
     }
 

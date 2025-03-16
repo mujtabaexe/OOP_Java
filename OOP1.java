@@ -29,8 +29,15 @@ class OOP1{
         pen2.printingType();
         pen2.write();
 
+        // Directly passing pen1 attributes to pen3
 
-        
+        Pen pen3 = pen1;
+        pen3.printingColor();
+        pen3.printingType();
+
+        // So pen3 points to the same attributes as pen1
+        pen3.color = "Green";
+        pen1.printingColor();
     }
 
 }

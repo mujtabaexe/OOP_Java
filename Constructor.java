@@ -19,6 +19,10 @@ class Student{
         this.age= age;
         printInfo();
     }
+
+    void setAge(int i) {
+        throw new UnsupportedOperationException("Not supported yet.");
+    }
 }
 
 public class Constructor {
