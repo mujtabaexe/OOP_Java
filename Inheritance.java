@@ -1,3 +1,6 @@
+import bank.Account;
+
+
 class Shape{
     public float length;
     private float width;
@@ -14,7 +17,7 @@ class Shape{
 class Triangle extends Shape{
     
     public void area(float length, float width) {
-        System.out.println(1/2*length*width);
+        System.out.println(0.5*length*width);
     }
 
 }
@@ -43,6 +46,8 @@ class Circle extends Shape{
 
 public class Inheritance {
     public static void main(String[] args) {
-        
+        Account acc1 = new Account();
+        acc1.name = "Mujtaba";
+        System.out.println(acc1.name);
     }
 }
