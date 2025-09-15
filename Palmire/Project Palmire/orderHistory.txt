@@ -1,0 +1,5 @@
+c,2024-06-01 14:23:11 | FaceWash x2 (Rs 1000) | Sunscreen x1 (Rs 1200) |
+ahmad,2024-06-02 10:15:45 | Java Masterclass x1 (Rs 2000) |
+e,2024-06-03 18:05:22 | LED TV x1 (Rs 40000) | Bluetooth Speaker x2 (Rs 14000) |
+c,2024-06-04 09:30:00 | MacBook Air x1 (Rs 250000) | a,2025-06-19 02:49:50 | Moisturizer x1 (Rs 800.0) | Sunscreen x1 (Rs 1200.0) | E-Book: Clean Code x1 (Rs 500.0) | AI for Beginners x1 (Rs 3000.0) | 
+a,2025-06-19 03:13:35 | Bluetooth Speaker x1 (Rs 7000.0) | Samsung S23 x1 (Rs 150000.0) | Dell XPS x1 (Rs 220000.0) | 

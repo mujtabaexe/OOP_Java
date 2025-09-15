@@ -1,0 +1,10 @@
+Java Masterclass,Courses,2000,10,https://download.com/java-masterclass
+Python Bootcamp,Courses,1800,8,https://download.com/python-bootcamp
+Web Dev Pro,Courses,2500,7,https://download.com/webdev-pro
+Digital Marketing,Courses,1500,12,https://download.com/digital-marketing
+AI for Beginners,Courses,3000,5,https://download.com/ai-beginners
+E-Book: Clean Code,E-books,500,20,https://download.com/clean-code
+E-Book: Atomic Habits,E-books,600,15,https://download.com/atomic-habits
+Photo Editor Pro,Software,1200,10,https://download.com/photo-editor
+Antivirus Plus,Software,900,9,https://download.com/antivirus-plus
+Music Studio,Software,2000,6,https://download.com/music-studio
