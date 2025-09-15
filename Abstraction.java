@@ -28,13 +28,13 @@ abstract class Animal{
 }
 
 
-class Horse extends Animal{
+class Horse extends AnimalRunner{
     public void walk(){
         System.out.println("Walks on 4 legs");
     }
 }
 
-class Chicken extends Animal{
+class Chicken extends AnimalRunner{
     public void walk(){
         System.out.println("Walks on 2 legs");
     }

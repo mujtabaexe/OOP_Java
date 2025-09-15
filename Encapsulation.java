@@ -1,4 +1,6 @@
 
+// The getters and setters we use in OOP is called Encapsulation.
+
 class Student {
 
     private int age;

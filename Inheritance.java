@@ -3,7 +3,7 @@ import bank.Account;
 
 class Shape{
     public float length;
-    private float width;
+    private float wid3th;
     private float radius;
     private float area;
     private float circumference;
@@ -33,7 +33,7 @@ class EquilateralTriangle extends Triangle{
 }
 
 // So it is also the Subclass class of Shape class and the Triangle class and this Circle class makes the Hierarchial Inheritance.  
-// Circle + Triangle + Equilateral classes makes the Hybrid Inheritancegit
+// Circle + Triangle + Equilateral classes makes the Hybrid Inheritance 
 
 class Circle extends Shape{
 
